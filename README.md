@@ -1,1 +1,6 @@
-# Terraform-Azure_ACR-AKS
+# Projeto Terraform criando Azure ACR & AKS
+
+## Pré-requisitos
+
+- Azure CLI
+- Terraform
